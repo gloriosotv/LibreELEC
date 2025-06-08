@@ -35,7 +35,7 @@ sudo eject /dev/sdc
 
     Conecte o cabo HDMI e a fonte de energia — a TV Box irá iniciar no Multitool.
 
-    Faça um backup da NAND (memória interna) da TV Box.
+    Faça um backup da NAND ou eMMC (memória interna) da TV Box.
     Use a opção no menu do Multitool: Backup NAND Flash ou similar.
 
     O backup será salvo automaticamente no cartão SD, na pasta backups/.
