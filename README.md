@@ -34,9 +34,6 @@ Substitua /dev/sdc pelo caminho do seu dispositivo.
 
     multitool.img
 
-    [baixar](https://github.com/gloriosotv/LibreELEC/releases/download/LibreELEC/LibreELEC-RK322X.arm-12.0-nightly-20250218-6a1e364-rk322x.img)
-
-
 📺 Usando o Multitool na TV Box
 
     Insira o cartão com Multitool na TV Box desligada.
