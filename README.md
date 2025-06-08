@@ -1,3 +1,5 @@
+As Imagens que estão aqui foi testada com a memoria eMMC então não sei se funciona em nand teste e ver mais sempre façam backup da rom ...
+
 🛠️ Como gravar multitool.img no cartão SD ou pendrive (Linux)
 
 Este tutorial mostra como gravar a imagem multitool.img em um cartão microSD ou pendrive para uso em TV Boxes compatíveis com LibreELEC.
