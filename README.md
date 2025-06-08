@@ -28,11 +28,6 @@ Esse comando força a gravação de todos os dados em cache no dispositivo — e
 5. Ejete o dispositivo com segurança
 python
 sudo eject /dev/sdc
-...
-Substitua /dev/sdc pelo caminho do seu dispositivo.
-📥 Outras imagens úteis
-
-    multitool.img
 
 📺 Usando o Multitool na TV Box
 
