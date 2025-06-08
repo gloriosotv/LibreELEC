@@ -28,7 +28,7 @@ Esse comando força a gravação de todos os dados em cache no dispositivo — e
 5. Ejete o dispositivo com segurança
 python
 sudo eject /dev/sdc
-
+...
 📺 Usando o Multitool na TV Box
 
     Insira o cartão com Multitool na TV Box desligada.
